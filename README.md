@@ -9,3 +9,5 @@ Validation features include focused input indicators, making it clear which fiel
 
 This project can be extended by adding JavaScript validation and backend integration to process job applications efficiently. It serves as a fundamental building block for modern job application portals, improving the hiring process.
 
+![Image](https://github.com/user-attachments/assets/c5375e33-fe7a-4713-900f-41930a2104e0)
+
